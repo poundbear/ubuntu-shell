@@ -1,0 +1,5 @@
+$ pkg install wget proot
+  mkdir -p ~/lala/Ubuntu
+  cd ~/lala/Ubuntu
+  github.com/poundbear/bearman.git-Ubuntu/master/Ubuntu.sh
+  bash ubuntu.sh
