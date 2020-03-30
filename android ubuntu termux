@@ -1,5 +1,0 @@
-$ pkg install wget proot
-  mkdir -p ~/lala/Ubuntu
-  cd ~/lala/Ubuntu
-  wget https://github.com/poundbear/termux-
-  ubuntu/master/ubuntu.sh
